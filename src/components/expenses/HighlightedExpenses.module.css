@@ -1,0 +1,24 @@
+.expenses {
+  background-color: #40005d;
+  color: white;
+  border-radius: 6px;
+  padding: 3rem;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.expenses p {
+  font-size: 2.5rem;
+}
+
+.expenses figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
+  text-align: right;
+  color: #a892ee
+}
+/* div{
+  display: flex;
+  justify-content: space-between;
+} */
