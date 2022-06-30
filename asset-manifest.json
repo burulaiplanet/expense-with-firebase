@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-with-firebase/static/css/main.fbc48726.css",
+    "main.js": "/expense-with-firebase/static/js/main.c54f9a2f.js",
+    "index.html": "/expense-with-firebase/index.html",
+    "main.fbc48726.css.map": "/expense-with-firebase/static/css/main.fbc48726.css.map",
+    "main.c54f9a2f.js.map": "/expense-with-firebase/static/js/main.c54f9a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc48726.css",
+    "static/js/main.c54f9a2f.js"
+  ]
+}
