@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/expense-with-firebase/static/css/main.fbc48726.css",
-    "main.js": "/expense-with-firebase/static/js/main.667e095a.js",
+    "main.css": "/expense-with-firebase/static/css/main.dd8de39c.css",
+    "main.js": "/expense-with-firebase/static/js/main.b361d3bf.js",
     "index.html": "/expense-with-firebase/index.html",
-    "main.fbc48726.css.map": "/expense-with-firebase/static/css/main.fbc48726.css.map",
-    "main.667e095a.js.map": "/expense-with-firebase/static/js/main.667e095a.js.map"
+    "main.dd8de39c.css.map": "/expense-with-firebase/static/css/main.dd8de39c.css.map",
+    "main.b361d3bf.js.map": "/expense-with-firebase/static/js/main.b361d3bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbc48726.css",
-    "static/js/main.667e095a.js"
+    "static/css/main.dd8de39c.css",
+    "static/js/main.b361d3bf.js"
   ]
 }
