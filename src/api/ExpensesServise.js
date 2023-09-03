@@ -1,4 +1,4 @@
-const FIREBASE_DOMAIN = "https://expenses-54379-default-rtdb.firebaseio.com/";
+const FIREBASE_DOMAIN = "https://expense-31a5f-default-rtdb.firebaseio.com/";
 
 export async function addExpensesHandler(objectWithId) {
   const response = await fetch(`${FIREBASE_DOMAIN}/expenses.json`, {
